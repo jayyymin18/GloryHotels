@@ -1,7 +1,7 @@
 <p align="center">
 <img href="https://gloryhotels.vercel.app/" src="./assets/img/favicon.ico" width=10% height=10%>
     <br />
-  <a target="blank" href="https://kart2home.herokuapp.com/"><strong>Explore the app here »</strong></a>
+  <a target="blank" href="https://gloryhotels.vercel.app/"><strong>Explore the app here »</strong></a>
 </p>
 
 # Glory Hotels
